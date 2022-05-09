@@ -1,0 +1,16 @@
+.alunos-header {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+.valor {
+    width: 50px;
+}
+
+.valor1 {
+    width: 80px;
+}
+

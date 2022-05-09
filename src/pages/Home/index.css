@@ -1,0 +1,12 @@
+.container {
+    width: 70%;
+    height: 100%;
+}
+
+.mb-0 {
+    font-size: 18px;
+}
+
+body {
+    background-color: aliceblue;
+}
